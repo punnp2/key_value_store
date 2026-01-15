@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# build artifacts
+a.out
+*.dSYM
+
+# VSCode workspace
+.vscode/
